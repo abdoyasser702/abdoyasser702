@@ -1,6 +1,6 @@
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
-<h1 align="center">Welcome to Mostafa Ali's GitHub! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+<h1 align="center">Welcome to Abdelrahman Yasser's profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -14,9 +14,9 @@
 
 🌱 Currently, I'm a Front-End Developer student at AlMadrasa, exploring the realms of web development.
 
-💼 I bring over 8 years of experience in gaming community management, including my role as Senior Community Manager at Next Generation Gaming.
+⚡ As a CS student, I'm constantly learning and exploring new technologies to improve my skills
 
-🎨 With 6 years of hands-on experience, I’m also a skilled **Peintre en Bâtiment**, specializing in interior painting and drywall finishing.
+🌟 Ask me about my experience with Java script, ReactJS, and NodeJS  or anything related to web development
 
 🌐 I’m diving into Python to enhance my programming skills, aiming to build a solid foundation before expanding into JavaScript and beyond!
 
@@ -58,7 +58,7 @@ Here are some exciting projects I’ve built to sharpen my programming skills:
 ---
 
 ### 📈 GitHub Stats
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafa-ali&show_icons=true&locale=en&layout=compact&theme=radical" alt="Mostafa's most used languages" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdoyasser702&show_icons=true&locale=en&layout=compact&theme=radical" alt="Abdelrahman's most used languages" />
 
 ---
 
@@ -66,8 +66,8 @@ Here are some exciting projects I’ve built to sharpen my programming skills:
 
 I’m always open to networking and new opportunities! Feel free to reach out:
 
-<a href="https://www.linkedin.com/in/mostafa-ali-658339227/" target="_blank"><img src="https://img.shields.io/badge/-Mostafa%20Ali-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a> 
-<a href="mailto:jasonraymanpf@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+[<a href="https://www.linkedin.com/in/mostafa-ali-658339227/" target="_blank"><img src="https://img.shields.io/badge/-Mostafa%20Ali-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a> ](https://www.linkedin.com/in/abdelrahman-yasser-006675327?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bws7zF84HQ1WagL2oUw%2FbpA%3D%3D)
+
 
 ---
 
