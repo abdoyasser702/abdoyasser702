@@ -66,7 +66,7 @@ Here are some exciting projects I’ve built to sharpen my programming skills:
 
 I’m always open to networking and new opportunities! Feel free to reach out:
 
-<a href="https://www.linkedin.com/in/abdelrahman-yasser-006675327/" target="_blank"><img src="https://img.shields.io/badge/-abdelrahman%20Ali-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/abdelrahman-yasser-006675327/" target="_blank"><img src="https://img.shields.io/badge/-abdelrahman%20Yasser-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 
 ---
