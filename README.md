@@ -66,7 +66,7 @@ Here are some exciting projects I’ve built to sharpen my programming skills:
 
 I’m always open to networking and new opportunities! Feel free to reach out:
 
-[<a href="https://www.linkedin.com/in/mostafa-ali-658339227/" target="_blank"><img src="https://img.shields.io/badge/-Mostafa%20Ali-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a> ](https://www.linkedin.com/in/abdelrahman-yasser-006675327?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bws7zF84HQ1WagL2oUw%2FbpA%3D%3D)
+[<a href="https://www.linkedin.com/in/abdelrahman-yasser-006675327/" target="_blank"><img src="(https://www.linkedin.com/in/abdelrahman-yasser-006675327?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bws7zF84HQ1WagL2oUw%2FbpA%3D%3D)"](https://www.linkedin.com/in/abdelrahman-yasser-006675327?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bws7zF84HQ1WagL2oUw%2FbpA%3D%3D)
 
 
 ---
