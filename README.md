@@ -16,7 +16,7 @@
 
 ⚡ As a CS student, I'm constantly learning and exploring new technologies to improve my skills
 
-🌟 Ask me about my experience with Java script, ReactJS, and NodeJS  or anything related to web development
+🌟  Problem-solving is something I truly enjoy—it challenges me to think critically, analyze situations, and come up with creative solutions, which gives me a sense of accomplishment.
 
 🌐 I’m diving into Python to enhance my programming skills, aiming to build a solid foundation before expanding into JavaScript and beyond!
 
