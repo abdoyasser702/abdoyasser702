@@ -18,7 +18,7 @@
 
 🌟  Problem-solving is something I truly enjoy—it challenges me to think critically, analyze situations, and come up with creative solutions, which gives me a sense of accomplishment.
 
-🌐 I’m diving into Python to enhance my programming skills, aiming to build a solid foundation before expanding into JavaScript and beyond!
+🌐 I’m diving into C++ to enhance my programming skills, aiming to build a solid foundation before expanding into JavaScript and beyond!
 
 ---
 
