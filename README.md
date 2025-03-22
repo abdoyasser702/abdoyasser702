@@ -71,4 +71,4 @@ I’m always open to networking and new opportunities! Feel free to reach out:
 
 ---
 
-<img src="https://img.shields.io/badge/Python-100%25-blue?style=flat-square&logo=python" alt="Python 100%" />
+<img src="https://img.shields.io/badge/Python-100%25-blue?style=flat-square&logo=python" alt="C++ 100%" />
