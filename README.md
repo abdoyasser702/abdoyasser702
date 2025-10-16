@@ -43,6 +43,10 @@ Features product listing, cart functionality, responsive design, and smooth UI i
 An interactive web app to explore countries around the globe.  
 Displays details like population, capital, and languages using REST APIs.
 
+#### 💼 [Personal Portfolio](https://personal-website-ecru-tau.vercel.app/)
+My personal website showcasing my projects, skills, and journey as a Front-End Developer.  
+Built with React, TypeScript, and ScrollReveal for animations.
+
 ---
 
 ### 📈 GitHub Stats
